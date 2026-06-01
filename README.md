@@ -23,3 +23,4 @@
 
 ## Status
 Active.
+See `examples/Hebbia.md` for a sample company brief generated with this skill.
