@@ -18,6 +18,8 @@
 | :-------------- | :----------- | :------------------------------------------------------------------------- |
 | manual research | 60min        | back-to-back prompting with LLMs + parallel tabs search, stays in my head. |
 | Tool use        | 4 min        | one brief generated in seconds. Saved and indexed.                         |
+
 **Capacity unlocked**: 15x.
+
 ## Status
 Active.
