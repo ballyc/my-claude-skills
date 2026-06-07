@@ -444,3 +444,6 @@ jq '.briefs[] | select(.themes[] == "ai-science") | {company, date}' ~/research-
 # Most recently researched
 jq '.briefs | sort_by(.date) | reverse | .[0:5] | .[] | {company, date}' ~/research-briefs/index.json
 ```
+## Gotchas
+
+- at the end of the brief in italic grey list the sources links: the top tiers ones and the ones of educated guesses.
